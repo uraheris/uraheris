@@ -1,8 +1,8 @@
 # RAH3RI
 
 ## About me
-CS Student at the University of Namur, Belgium
-Interested in development and cybersecurity
+CS Student at the University of Namur, Belgium\n
+Interested in development and cybersecurity\n
 
 ## Known technologies
 I've already used C, C#, Python
