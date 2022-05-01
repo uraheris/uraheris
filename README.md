@@ -7,7 +7,7 @@ Interested in development and cybersecurity
 
 
 ## Known technologies
-I've already used C, C#, Python, Roblox Lua
+I've already worked with C, C#, Python, Roblox Lua
 
 Web development : HTML, CSS, Bootstrap, and a bit of JS
 
